@@ -154,4 +154,4 @@ Task -- Project : "1,1" -- "0,*"
 
 ## Реляційна схема
 
-![Реляційна схема](../assets/images/rel_scheme.png)
+![Реляційна схема](rel_scheme.png)
