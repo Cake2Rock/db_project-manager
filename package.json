@@ -4,7 +4,7 @@
   "main": "index.js",
   "description": "Databases labs",
   "repository": "https://github.com/Cake2Rock/db_project-manager",
-  "author": "Kiril Yakymchuk <stbestich@gmail.com>",
+  "author": "Slisarenko Maksim <maxslisarenko8@gmail.com>",
   "license": "ECL 2.0",
   "scripts": {
     "docs:dev": "npx vuepress dev docs",

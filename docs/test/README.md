@@ -2,65 +2,65 @@
 
 ## Старт серверу
 
-![Server Start](serverstart.png)
+![Server Start](./serverstart.png)
 
 ## Початкове наповнення 
 
-![Database](db.png)
+![Database](./db.png)
 
 ## POST
 
 #### Запит
 
-![Post Request](postreq.png)
+![Post Request](./postreq.png)
 
 #### Відповідь серверу
 
-![Post Server Answer](postreqans.png)
+![Post Server Answer](./postreqans.png)
 
 #### Результат
 
-![Post result](postres.png)
+![Post result](./postres.png)
 
 ## GET ALL
 
 #### Запит
 
-![Get All Request](getall.png)
+![Get All Request](./getall.png)
 
 #### Відповідь серверу
 
-![Post Server Answer](getallansw.png)
+![Post Server Answer](./getallansw.png)
 
 ## GET BY ID
 
 #### Запит
 
-![Get All Request](getid.png)
+![Get All Request](./getid.png)
 
 #### Відповідь серверу
 
-![Post Server Answer](getidans.png)
+![Post Server Answer](./getidans.png)
 
 ## PUT
 
 #### Запит
 
-![Post Request](put.png)
+![Post Request](./put.png)
 
 #### Відповідь серверу
 
-![Post Server Answer](putans.png)
+![Post Server Answer](./putans.png)
 
 #### Результат
 
-![Post result](putres.png)
+![Post result](./putres.png)
 
 ## DELETE
 
 #### Запит
 
-![Post Request](del.png)
+![Post Request](./del.png)
 
 #### Відповідь серверу
 
@@ -68,14 +68,5 @@
 
 #### Результат
 
-![Post result](delres.png)
+![Post result](./delres.png)
 
-## ERROR TEST
-
-#### Запит
-
-![Post Request](badreq.png)
-
-#### Відповідь серверу
-
-![Post Server Answer](badreqstatus.png)
